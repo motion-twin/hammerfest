@@ -1,4 +1,4 @@
-﻿<items>
+<items>
 	<family id="1000"> <!-- petites gateries -->
 		<item id="1000"	rarity="0"	value="--" />
 		<item id="1003"	rarity="1"	value="500" />
