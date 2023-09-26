@@ -83,8 +83,8 @@ class Loader {
 		Std.setVar(Std.getRoot(),"$lang", "fr");
 		Std.setVar(Std.getRoot(),"$shake", "1");
 		Std.setVar(Std.getRoot(),"$detail", "1");
-		Std.setVar(Std.getRoot(),"$sound", "0");
-		Std.setVar(Std.getRoot(),"$music", "0");
+		Std.setVar(Std.getRoot(),"$sound", "1");
+		Std.setVar(Std.getRoot(),"$music", "1");
 		Std.setVar(Std.getRoot(),"$volume", "100");
 
 
